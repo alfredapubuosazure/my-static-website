@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = alfredapubuosazure
+	email = aazure20@sph.uhas.edu.gh
+# Please adapt and uncomment the following lines:
+#	name = Ubuntu
+#	email = ubuntu@ip-172-31-39-228.ec2.internal
+[push]
+	autoSetupRemote = true
